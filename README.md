@@ -10,7 +10,7 @@ INTEGRANTES:
 
 LINKS:
  Site (GitHub Pages): https://andrewpontogit.github.io/EmporioPolar/
- Repositório (GitHub): https://github.com/usuario/emporio-polar
+ Repositório (GitHub): https://github.com/AndrewPontoGit/EmporioPolar
  Vídeo (YouTube): https://www.youtube.com/watch?v=...
 
 RECURSOS DE JAVASCRIPT IMPLEMENTADOS (mínimo de 8):
