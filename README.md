@@ -5,11 +5,11 @@ SEGMENTO: Confeitaria natalina
 TURMA: 1TIA
 
 INTEGRANTES:
- - João Pedro Reis - nº
- - Andrew Matheus - nº
+ - João Pedro Reis -
+ - Andrew Matheus -
 
 LINKS:
- Site (GitHub Pages): https://usuario.github.io/emporio-polar/
+ Site (GitHub Pages): [https://usuario.github.io/emporio-polar/](https://andrewpontogit.github.io/EmporioPolar/contato.html)
  Repositório (GitHub): https://github.com/usuario/emporio-polar
  Vídeo (YouTube): https://www.youtube.com/watch?v=...
 
