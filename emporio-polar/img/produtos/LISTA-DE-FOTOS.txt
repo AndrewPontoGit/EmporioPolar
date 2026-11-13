@@ -1,0 +1,65 @@
+LISTA DE FOTOS DOS PRODUTOS
+Salve cada foto em img/produtos/ com EXATAMENTE o nome abaixo (minúsculas, .jpg, ~600x600 px, até ~200 KB).
+Enquanto a foto não existir, o site mostra img/produtos/sem-foto.jpg no lugar.
+Fontes livres: unsplash.com, pexels.com, pixabay.com. Guarde o link de cada foto para os créditos no LEIA-ME.txt.
+Compressão: squoosh.app ou tinypng.com.
+
+== Panetones e Chocotones  (busca sugerida: "panettone christmas bread") ==
+01  panetone-trufado.jpg   (Panetone Trufado)
+02  panetone-de-frutas-cristalizadas.jpg   (Panetone de Frutas Cristalizadas)
+03  chocotone-polar.jpg   (Chocotone Polar)
+04  panetone-de-doce-de-leite.jpg   (Panetone de Doce de Leite)
+05  panetone-gotas-de-chocolate.jpg   (Panetone Gotas de Chocolate)
+06  chocotone-de-avela.jpg   (Chocotone de Avelã)
+07  panetone-integral-com-nozes.jpg   (Panetone Integral com Nozes)
+08  mini-panetone-floco-de-neve.jpg   (Mini Panetone Floco de Neve)
+09  panetone-de-pistache.jpg   (Panetone de Pistache)
+10  panetone-vegano-de-laranja.jpg   (Panetone Vegano de Laranja)
+
+== Biscoitos  (busca sugerida: "gingerbread cookies christmas") ==
+11  biscoito-de-gengibre-papai-noel.jpg   (Biscoito de Gengibre Papai Noel)
+12  arvore-de-natal-amanteigada.jpg   (Árvore de Natal Amanteigada)
+13  cookies-de-canela-e-maca.jpg   (Cookies de Canela e Maçã)
+14  flocos-de-neve-glacados.jpg   (Flocos de Neve Glaçados)
+15  casinha-de-gengibre-mini-kit.jpg   (Casinha de Gengibre Mini-Kit)
+16  amanteigados-de-baunilha.jpg   (Amanteigados de Baunilha)
+17  bengala-doce.jpg   (Bengala Doce)
+18  macarons-natalinos-6-un.jpg   (Macarons Natalinos (6 un))
+19  alfajor-neve-de-coco.jpg   (Alfajor Neve de Coco)
+20  sequilhos-de-nata.jpg   (Sequilhos de Nata)
+
+== Bolos e Tortas  (busca sugerida: "christmas cake dessert") ==
+21  bolo-floresta-branca.jpg   (Bolo Floresta Branca)
+22  torta-de-nozes-peca.jpg   (Torta de Nozes Pecã)
+23  bolo-de-cenoura-polar.jpg   (Bolo de Cenoura Polar)
+24  torta-holandesa-gelada.jpg   (Torta Holandesa Gelada)
+25  bolo-pinheiro-verde.jpg   (Bolo Pinheiro Verde)
+26  rocambole-de-morango.jpg   (Rocambole de Morango)
+27  cheesecake-de-frutas-vermelhas.jpg   (Cheesecake de Frutas Vermelhas)
+28  bolo-de-especiarias.jpg   (Bolo de Especiarias)
+29  torta-de-limao-nevado.jpg   (Torta de Limão Nevado)
+30  naked-cake-estrela.jpg   (Naked Cake Estrela)
+
+== Cestas e Kits  (busca sugerida: "christmas gift basket food") ==
+31  cesta-aurora-boreal.jpg   (Cesta Aurora Boreal)
+32  cesta-papai-noel.jpg   (Cesta Papai Noel)
+33  kit-ceia-completa.jpg   (Kit Ceia Completa)
+34  kit-cafe-da-manha-natalino.jpg   (Kit Café da Manhã Natalino)
+35  cesta-mini-presente.jpg   (Cesta Mini Presente)
+36  kit-chocolate-quente.jpg   (Kit Chocolate Quente)
+37  caixa-de-bombons-premium.jpg   (Caixa de Bombons Premium)
+38  kit-amigo-secreto.jpg   (Kit Amigo Secreto)
+39  cesta-corporativa-gold.jpg   (Cesta Corporativa Gold)
+40  kit-biscoitos-para-decorar.jpg   (Kit Biscoitos para Decorar)
+
+== Bebidas e Chocolates  (busca sugerida: "hot chocolate christmas") ==
+41  chocolate-quente-cremoso.jpg   (Chocolate Quente Cremoso)
+42  suco-de-uva-integral-natalino.jpg   (Suco de Uva Integral Natalino)
+43  barra-de-chocolate-natal.jpg   (Barra de Chocolate Natal)
+44  trufas-de-menta-12-un.jpg   (Trufas de Menta (12 un))
+45  espumante-sem-alcool.jpg   (Espumante sem Álcool)
+46  cha-de-frutas-vermelhas.jpg   (Chá de Frutas Vermelhas)
+47  calda-de-chocolate-branco.jpg   (Calda de Chocolate Branco)
+48  rena-de-chocolate.jpg   (Rena de Chocolate)
+49  papai-noel-de-chocolate.jpg   (Papai Noel de Chocolate)
+50  cafe-especial-natalino.jpg   (Café Especial Natalino)

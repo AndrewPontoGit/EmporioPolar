@@ -1,0 +1,55 @@
+/* ==========================================================
+   Empório Polar · css/responsivo.css  (mobile-first)
+   Celular (base) → Tablet (600px) → Desktop (992px)
+   ========================================================== */
+
+/* Celular: o estilo base já vale aqui */
+.grade-produtos { grid-template-columns: 1fr; }
+.trio, .contato-grade { grid-template-columns: 1fr; }
+.barra-topo .container { gap: 0; }
+.barra-topo p:not(:first-child) { display: none; }       /* só o primeiro aviso no celular */
+.logo { order: 1; font-size: 1.45rem; }
+.acoes { order: 2; margin-left: auto; }
+.busca-topo { order: 3; flex-basis: 100%; }
+.menu { display: none; }
+.menu.aberto { display: block; }
+.menu-int { display: flex; flex-direction: column; }
+.icone-btn .rotulo { display: none; }                     /* só o ícone no celular */
+.slide.ativo { align-items: end; }
+.slide-texto { margin: 0 1rem 2.6rem; padding: 1rem 1.1rem; }
+.slide-texto p { font-size: 0.95rem; margin-bottom: 0.7rem; }
+.beneficios div { border-right: 0; border-bottom: 1px solid var(--borda); }
+.rodape-grade { grid-template-columns: 1fr 1fr; gap: 1.4rem; }
+
+/* Tablet (a partir de 600px) */
+@media (min-width: 600px) {
+  .grade-produtos { grid-template-columns: repeat(2, 1fr); }
+  .trio { grid-template-columns: repeat(2, 1fr); }
+  .barra-topo .container { gap: 2.5rem; }
+  .barra-topo p:not(:first-child) { display: block; }
+  .logo { font-size: 1.7rem; }
+  .slide.ativo { align-items: center; }
+  .slide-texto { margin: 0 0 0 3.4rem; }
+  .rodape-grade { grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); }
+}
+
+/* Desktop (a partir de 992px) */
+@media (min-width: 992px) {
+  .grade-produtos { grid-template-columns: repeat(4, 1fr); }
+  .trio { grid-template-columns: repeat(3, 1fr); }
+  .contato-grade { grid-template-columns: 1.4fr 1fr; gap: 2rem; }
+  .busca-topo { order: 2; flex-basis: auto; }
+  .acoes { order: 3; margin-left: 0; }
+  .menu { display: block; order: 4; flex-basis: 100%; }
+  .menu-int { flex-direction: row; }
+  .btn-menu { display: none; }
+  .icone-btn .rotulo { display: inline; }
+}
+
+/* Telas muito pequenas: cabeçalho mais compacto para caber em uma linha */
+@media (max-width: 440px) {
+  .logo { font-size: 1.2rem; gap: 0.35rem; }
+  .logo img { width: 32px; height: 32px; }
+  .icone-btn { padding: 0.4rem 0.35rem; }
+  .cabecalho-int { gap: 0.5rem; }
+}
