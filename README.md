@@ -9,7 +9,7 @@ INTEGRANTES:
  - Andrew Matheus -
 
 LINKS:
- Site (GitHub Pages): [https://usuario.github.io/emporio-polar/](https://andrewpontogit.github.io/EmporioPolar/contato.html)
+ Site (GitHub Pages): https://andrewpontogit.github.io/EmporioPolar/
  Repositório (GitHub): https://github.com/usuario/emporio-polar
  Vídeo (YouTube): https://www.youtube.com/watch?v=...
 
